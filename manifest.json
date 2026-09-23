@@ -1,0 +1,6 @@
+{
+  "latest": "1.3.3",
+  "package": "https://github.com/balagna/seo-manager-updates/releases/download/v1.3.3/seo-manager-v1.3.3-r1.zip",
+  "sha256": "75c0e451ee52fc1628183ae6a3fd9ddb6924df46e520cdd152517f6a6d5cf590",
+  "notes": "SEO Manager v1.3.3: restauración y mejora de la interfaz visual, indicadores de auditoría, navegación, estados visuales y validación automática del contrato UI."
+}
