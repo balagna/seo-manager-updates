@@ -1,6 +1,6 @@
 {
-  "latest": "1.3.5",
-  "package": "https://github.com/balagna/seo-manager-updates/releases/download/v1.3.5/seo-manager-v1.3.5-r1.zip",
-  "sha256": "b95f2a4c6ac51a8babef80ec17efa6a62a937a27a68de57b726abe4470a1d660",
-  "notes": "SEO Manager v1.3.5: mejora la compatibilidad de imágenes sociales mediante conversión a JPEG baseline 1200x630, agrega metadatos Open Graph/Twitter ampliados e inserción temprana en el head, y corrige la preservación de permisos públicos durante actualización y rollback."
+  "latest": "1.3.6",
+  "package": "https://github.com/balagna/seo-manager-updates/releases/download/v1.3.6/seo-manager-v1.3.6-r1.zip",
+  "sha256": "a1b9dca07171d3cdc93d6b510d281d2b7c6b76b1b1c5d9842d145e0a5b5aaa87",
+  "notes": "SEO Manager v1.3.6: corrige el contrato de autenticación del uploader Open Graph y la carga idempotente de SEO_PRIVATE_ROOT; mantiene JPEG baseline 1200x630, metadatos sociales ampliados y preservación de permisos durante actualización y rollback."
 }
