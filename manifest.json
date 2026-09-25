@@ -1,6 +1,6 @@
 {
-  "latest": "1.3.6",
-  "package": "https://github.com/balagna/seo-manager-updates/releases/download/v1.3.6/seo-manager-v1.3.6-r1.zip",
-  "sha256": "a1b9dca07171d3cdc93d6b510d281d2b7c6b76b1b1c5d9842d145e0a5b5aaa87",
-  "notes": "SEO Manager v1.3.6: versión estable. La actualización v1.4.0 fue retirada temporalmente del canal automático mientras se completa una corrección de portabilidad del actualizador."
+  "latest": "1.4.1",
+  "package": "https://github.com/balagna/seo-manager-updates/releases/download/v1.4.1/seo-manager-v1.4.1.zip",
+  "sha256": "b412e8775b51bcd5112dd9e66282d0e57ae24831e7f217e87cd8df543c076a09",
+  "notes": "SEO Manager v1.4.1: actualización estable con correcciones de portabilidad del actualizador, rollback transaccional, permisos compatibles con cPanel y módulos Keywords e Indexation."
 }
