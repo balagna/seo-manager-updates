@@ -1,6 +1,6 @@
 {
-  "latest": "1.4.0",
-  "package": "https://github.com/balagna/seo-manager-updates/releases/download/v1.4.0/seo-manager-v1.4.0.zip",
-  "sha256": "a170520ddfdd453764e87a162aff2ff1f81a7899d89a97384dcd3a83f4f27df4",
-  "notes": "SEO Manager v1.4.0: incorpora módulos de Keywords e Indexación, editor seguro de robots.txt y sitemap.xml, auditoría HTTP endurecida, control de concurrencia y rollback, eliminación segura de archivos obsoletos durante actualización, validación HTTPS/SSRF y endurecimiento del paquete ZIP."
+  "latest": "1.3.6",
+  "package": "https://github.com/balagna/seo-manager-updates/releases/download/v1.3.6/seo-manager-v1.3.6-r1.zip",
+  "sha256": "a1b9dca07171d3cdc93d6b510d281d2b7c6b76b1b1c5d9842d145e0a5b5aaa87",
+  "notes": "SEO Manager v1.3.6: versión estable. La actualización v1.4.0 fue retirada temporalmente del canal automático mientras se completa una corrección de portabilidad del actualizador."
 }
