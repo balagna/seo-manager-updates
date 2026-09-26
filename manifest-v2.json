@@ -1,7 +1,7 @@
 {
-  "latest": "1.4.2",
-  "package": "https://github.com/balagna/seo-manager-updates/releases/download/v1.4.2/seo-manager-v1.4.2.zip",
-  "sha256": "d86d4bc40023efad3dd95a6b555e333a83e7eb2e83b1e2345cafb3adca99dcce",
-  "notes": "SEO Manager v1.4.2: canal moderno estable. Incluye corrección definitiva de permisos públicos, rollback transaccional y soporte de migración legacy mediante bootstrap.",
-  "published_at": "2026-09-25T05:25:05Z"
+  "latest": "1.4.3",
+  "package": "https://github.com/balagna/seo-manager-updates/releases/download/v1.4.3/seo-manager-v1.4.3.zip",
+  "sha256": "5af3d3c2f11b1bed15d46bd41f6428f1a47a245eec7950c2938599a9e2735f21",
+  "notes": "SEO Manager v1.4.3: release estable certificado. Incluye hardening adicional, actualización certificada desde v1.4.2, rollback y recuperación operacional certificados, preservación de configuración y datos privados.",
+  "published_at": "2026-09-26T14:14:52Z"
 }
